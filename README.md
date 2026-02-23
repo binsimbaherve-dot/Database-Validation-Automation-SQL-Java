@@ -1,4 +1,4 @@
-# Project 3: Database Validation Automation (SQL + Java)
+Database Validation Automation (SQL + Java)
 
 Automated tests validating backend database state after API or UI actions.
 
